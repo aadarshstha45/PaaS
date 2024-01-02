@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1> PaaS Example for Azure</h1>
+        <h2> PaaS Example for Azure</h2>
       </header>
     </div>
   );
